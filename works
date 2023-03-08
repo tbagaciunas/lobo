@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+
+	<!-- META -->
+
+	<meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	
+	<!-- LINKS -->
+
+	<link rel="stylesheet" media="print" onload="this.onload=null;this.media='all';" id="ao_optimized_gfonts" href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C400italic%2C500%2C600%2C700%2C700%2C800%2C900%7COpen+Sans%3A300%2C400%2C400italic%2C500%2C600%2C700%2C700%2C800%2C900%7CLekton%3A300%2C400%2C400italic%2C500%2C600%2C700%2C700%2C800%7CCrimson+Text%3A300%2C400%2C400italic%2C500%2C600%2C700%2C700%2C800&amp;display=swap" /><link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://lobo.demo-heythemers.com/xmlrpc.php" />
+
+	        <link rel="shortcut icon" type="image/x-icon" href="https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/favicon.ico" />
+    
+	<!-- WP HEAD -->
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Portfolio - Lobo</title>
+	<link rel="canonical" href="https://lobo.demo-heythemers.com/portfolio-alt/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Portfolio - Lobo" />
+	<meta property="og:url" content="https://lobo.demo-heythemers.com/portfolio-alt/" />
+	<meta property="og:site_name" content="Lobo" />
+	<meta property="article:modified_time" content="2019-08-29T09:37:57+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://lobo.demo-heythemers.com/#website","url":"https://lobo.demo-heythemers.com/","name":"Lobo","description":"Premium Wordpress Portfolio","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lobo.demo-heythemers.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://lobo.demo-heythemers.com/portfolio-alt/#webpage","url":"https://lobo.demo-heythemers.com/portfolio-alt/","name":"Portfolio - Lobo","isPartOf":{"@id":"https://lobo.demo-heythemers.com/#website"},"datePublished":"2014-04-09T14:26:07+00:00","dateModified":"2019-08-29T09:37:57+00:00","breadcrumb":{"@id":"https://lobo.demo-heythemers.com/portfolio-alt/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://lobo.demo-heythemers.com/portfolio-alt/"]}]},{"@type":"BreadcrumbList","@id":"https://lobo.demo-heythemers.com/portfolio-alt/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://lobo.demo-heythemers.com/"},{"@type":"ListItem","position":2,"name":"Portfolio"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Lobo &raquo; Feed" href="https://lobo.demo-heythemers.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lobo &raquo; Comments Feed" href="https://lobo.demo-heythemers.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lobo &raquo; Portfolio Comments Feed" href="https://lobo.demo-heythemers.com/portfolio-alt/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://lobo.demo-heythemers.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/css/autoptimize_single_1acc6d05dce5567e977de5bb00610c80.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/css/autoptimize_single_d3d2c71d7e8cc53428aa836542ccb646.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+
+
+
+
+<link rel='stylesheet' id='lobo-style-css'  href='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/css/autoptimize_single_7e6baa59a763d15f07cf9b0e7adeeaae.css' type='text/css' media='all' />
+<style id='lobo-style-inline-css' type='text/css'>
+
+
+			/* CUSTOM FONTS */
+
+			.actions .action,.compact-menu .main-d-nav ul li a, .view-item-btn, .item-meta h2, .prjct-hvr-title h2, body .module .heading, .blog-action-title, .blog-search-box, .comments-count, .comment-reply-link, .footer .social-area ul li a, .product .button, li.product .price, .product .item-cat, .cart-contents span, .cart-customlocation span, .shop_table *, .lobo-tabs .shop_table p, .lobo-tabs *, .lobo-tabs input[type="submit"], .lobo-tabs button, .order_details, .woocommerce-page .post-excerpt .variation p, #shop-search a, #shop-search .wsf-heading, .table-end { font-family: 'Lato', sans-serif; }
+
+			.text-hero-title, .text-hero-subtitle { font-family: 'Lato', sans-serif; !important; }
+
+			body, .hero-text-intro .hero-intro h1, .hero-text-intro .hero-intro h2, .inner-post .post-title, .comment-body p, .pagination div a, .call-to-action-btn a, .show-map-btn, .product-content, .product_title, .product-content h2, .product-content h3, .single-product .cart input, #lobo-reviews h5, #lobo-reviews .form input, #lobo-reviews .form select, #lobo-reviews .form textarea, #lobo-reviews .form-submit input#submit, .products > h2, .woocommerce-message .button, .blog-actions .woocommerce.widget .widget-title, .wcp-title, .woocommerce-page .the-post h2, .product-quantity .input-text, .lobo-tabs input, .lobo-tabs select, .lobo-tabs textarea, .lobo-tabs radio, .lobo-tabs checkbox, .lobo-tabs label, .lobo-tabs label abbr, .module .lobo-accordion h3, li.product .price del + ins, .country_select { font-family: 'Open Sans', sans-serif; }
+
+			.contact-form form ::-webkit-input-placeholder { font-family: 'Open Sans', sans-serif; } .contact-form form ::-moz-placeholder { font-family: 'Open Sans', sans-serif; } .contact-form form ::-ms-input-placeholder { font-family: 'Open Sans', sans-serif; } 
+
+			h1, h2, h3, h4, h5, h6, .inner-post .post-date, .inner-post footer a, .single-post h3, .single-post blockquote, .single-post .post-excerpt .left-note, .read-comments-btn, .author-post-meta, .comment-author-wrap, .single-post .comment-reply-title, .respond-field input, .respond-comment textarea, .comment-form input#submit, .submit-caption, .footer .credits, .module blockquote, .contact-form label, .galleria-run .text, #galleria .galleria-control, #galleria .galleria-counter, #galleria .galleria-info-description, #galleria .gal-close-btn, .royalSlider.tabs .rsTab, .rating-meta time, .wcp-subtitle strong, .wcp-subtitle a, .woocommerce-message, .woocommerce-error, .woocommerce-info, .lobo-tabs p, .payment_methods li label, .woocommerce-page .post-excerpt p, .woocommerce-page .post-excerpt dl, .order-actions a, .address a, .lobo-tabs address, #scriptie { font-family: 'Lekton', sans-serif; }
+
+			.hero-info h1, .hero-info h2, .secondary-typeface, .compact-menu .main-d-nav .menu-footer p, .module-title, .text-module .copy h4, .text-module .copy h5, .text-module .copy h6, .module-caption, .slide-caption, .prjct-description-head h3, body .module .copy-highlight, .item-meta .item-cat { font-family: 'Crimson Text', serif; }
+
+			/* CUSTOM COLORS */
+
+			::-moz-selection { background-color: #fff85f; }
+			::selection { background-color: #fff85f; }
+
+			#header .main-d-nav ul .sub-menu, .module-caption, .slide-caption, .audioplayer-bar-played, .post-item:hover .inner-post footer a, .cats a:after, .cats-blog a:after, .action a:after, .call-to-action-module h2:after, .call-to-action-module h3:after, .call-to-action-module h4:after, .mb_YTPseekbar, .comment-list .bypostauthor .comment-inner:after, .hero-info a:after, #galleria .galleria-info-description, .royalSlider.tabs .rsTab:after, .galleria-container.background--light .galleria-close-wrapper a:hover, .separator h3:after, .galleria-container.background--dark .galleria-close-wrapper a:hover, .separator h3:after, .galleria-close-wrapper a:hover, .separator h3:after, .single_add_to_cart_button, #lobo-reviews h5, li.product .view_button, .woocommerce-message .button, .blog-actions .woocommerce.widget > ul, .cart-contents span, .cart-customlocation span, #main-cart .widget_shopping_cart .button.view, .woocommerce-page input[type="submit"], .woocommerce-page button, .wc-button, .woo-cheader a:after, .wcp-subtitle a:after, #shop-search a:after, .mejs-controls .mejs-time-rail .mejs-time-current { background-color: #fff85f; }
+
+			body .module .copy-highlight, .single-product .product_meta a:hover, .reviews-slider .rsArrow:hover .rsArrowIcn:before, .onsale, .woocommerce-message .button:hover, .blog-actions .woocommerce.widget .widget-title.expand:hover, .blog-actions .woocommerce.widget .widget-title.expand.opened, #main-cart .cart-title:first-letter, #main-cart .widget_shopping_cart .button:hover, .single_add_to_cart_button:hover, .woocommerce-page input[type="submit"]:hover, .woocommerce-page button:hover, .star-rating .star:before, .wcp-subtitle a:hover, .order-actions a:hover, a.wc-button:hover { color: #fff85f; }
+
+			.woocommerce #s, .blog-actions .woocommerce.widget .widget-title.expand:hover, .blog-actions .woocommerce.widget .widget-title.expand.opened { border-color: #fff85f; }
+
+			.compact-menu .main-d-nav .c-close-btn span, .actions-bottom .sticky-head-elmnts .hero-sticky-title, .actions-bottom .sticky-head-elmnts .action-scroll-top a i, .share-wdgt span, .overlay .close-btn span, .pagination .prev-post a, .woocommerce-pagination .page-numbers a:hover { background-color: rgb(252, 255, 147); }
+
+			.blog-actions .cats-blog li a, .call-to-action-btn a, .show-map-btn { color: rgb(252, 255, 147); }
+
+			.no-touch .compact-menu .main-d-nav ul li a:hover, .compact-menu .main-d-nav .menu-footer p .copy-highlight, .compact-menu .main-d-nav ul li.current > a { color: rgb(255, 251, 178); }
+
+			.pagination .next-post a, .comment-list .even, form input[type="submit"], .selector, .current-selector { background-color: rgb(253, 255, 188); }
+
+			.comment-list .odd, .mb_YTPLoaded, .pagination, .video-embedded .vem-overlay:hover .vem-play, .mejs-overlay:hover .mejs-overlay-button, .mejs-controls .mejs-time-rail .mejs-time-loaded { background-color: rgb(254, 255, 234); }
+
+			.rating-word { color: rgb(253, 255, 188); }
+
+			.woocommerce-page .item-hover:hover:before { border-color: #fff85f; }
+
+			a:active, a:focus, .no-touch a:active, .no-touch a:focus { color: rgb(254, 235, 0); }
+
+			/* IE uses absolute paths to .cur files - YAY!!! :) */
+
+			.ie .sldr-nofade .bottom-dark .hero-item .rsOverflow,
+			.ie .sldr-nofade .top-dark .hero-item .rsOverflow,
+			.ie .sldr-nofade .bottom-dark .grab-cursor,
+			.ie .sldr-nofade .top-dark .grab-cursor {  
+			  cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-sldr-light.cur), move !important;
+			}
+			.ie .sldr-nofade .bottom-light .hero-item .rsOverflow,
+			.ie .sldr-nofade .top-light .hero-item .rsOverflow,
+			.ie .sldr-nofade .bottom-light .grab-cursor,
+			.ie .sldr-nofade .top-light .grab-cursor {
+			  cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-sldr-dark.cur), move !important;
+			}
+			.ie .bottom-dark .hero-item .rsOverflow .rsArrowLeft,
+			.ie .top-dark .hero-item .rsOverflow .rsArrowLeft,
+			.ie .bottom-dark .rsArrowLeft .grab-cursor,
+			.ie .top-dark .rsArrowLeft .grab-cursor,
+			.ie .galleria-container.background--dark .galleria-image-nav-left i {  
+			  cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-gallery-left-light.cur), move !important;
+			}
+			.ie .bottom-light .hero-item .rsOverflow .rsArrowLeft,
+			.ie .top-light .hero-item .rsOverflow .rsArrowLeft,
+			.ie .bottom-light .rsArrowLeft .grab-cursor,
+			.ie .top-light .rsArrowLeft .grab-cursor,
+			.ie .galleria-container.background--light .galleria-image-nav-left i {  
+			  cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-gallery-left-dark.cur), move !important;
+			}
+			.ie .bottom-dark .hero-item .rsOverflow .rsArrowRight,
+			.ie .top-dark .hero-item .rsOverflow .rsArrowRight,
+			.ie .bottom-dark .rsArrowRight .grab-cursor,
+			.ie .top-dark .rsArrowRight .grab-cursor,
+			.ie .galleria-container.background--dark .galleria-image-nav-right i { 
+				cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-gallery-right-light.cur), move !important;
+			}
+			.ie .bottom-light .hero-item .rsOverflow .rsArrowRight,
+			.ie .top-light .hero-item .rsOverflow .rsArrowRight,
+			.ie .bottom-light .rsArrowRight .grab-cursor,
+			.ie .top-light .rsArrowRight .grab-cursor,
+			.ie .galleria-container.background--light .galleria-image-nav-right i {  
+			  cursor: url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/grab-gallery-right-dark.cur), move !important;
+			}
+
+			/* CUSTOM CSS */
+
+		/*lettering spacing*/
+.action a,
+.hero-sticky-title,
+.item-meta h2,
+.prjct-hvr-title h2,
+.submit-btn-helper,
+.comment-form input#submit,
+.call-to-action-btn a,
+.footer .social-area ul li a,
+.item-meta .item-cat,
+.compact-menu .main-d-nav ul li a { letter-spacing: 2px; }
+.blog-actions .cats-blog li a,
+.blog-action-title,
+.blog-search-box { letter-spacing: 3px; }
+.item-meta h2 a { letter-spacing: 5px; }
+
+.comment-reply-btn,
+.respond-field input,
+.pagination div a,
+.rltd-content p,
+.rltd-content-wrapper h3 { letter-spacing: 1px; }
+
+.prjct-description-head h3 { letter-spacing: -1px; }
+
+.hero-sticky-title { font-weight: bold; }
+
+/* Blog > Single post
+-------------------------------------------- */
+/*Headings*/
+.single-post .post-body h2 { color: #09f4af; }
+.single-post .post-body h3 { color: #f14814; }
+.single-post .post-body h4 { color: #f2c709; }
+/*Text*/
+.single-post .post-body > * {
+    color: #5D556F;
+}
+.separator h3 { padding-top: 40px; }
+
+.text-hero-title, .text-hero-subtitle {
+    font-family: 'Montserrat', 'Lato', 'HelveticaNeue', sans-serif !important;
+}
+@media only screen 
+and (max-width : 480px) {
+.module-title { display: none; }
+}
+.woocommerce-cart .hero-info,
+.woocommerce-account .hero-info,
+.woocommerce-checkout .hero-info { display: none; }
+
+.mejs-poster {
+    background-size: cover;
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+}
+.woocommerce .module.text-module .module-background img {
+    display: block;
+}
+</style>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://lobo.demo-heythemers.com/wp-json/" /><link rel="alternate" type="application/json" href="https://lobo.demo-heythemers.com/wp-json/wp/v2/pages/139" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lobo.demo-heythemers.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lobo.demo-heythemers.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.6" />
+<meta name="generator" content="WooCommerce 5.5.4" />
+<link rel='shortlink' href='https://lobo.demo-heythemers.com/?p=139' />
+<link rel="alternate" type="application/json+oembed" href="https://lobo.demo-heythemers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lobo.demo-heythemers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F&#038;format=xml" />
+<meta property="og:title" content="Portfolio"/><meta property="og:type" content="article"/><meta property="og:url" content="https://lobo.demo-heythemers.com/portfolio-alt/"/><meta property="og:site_name" content="Lobo"/><meta property="og:description" content="" /><meta name="twitter:card" value="summary"><meta itemprop="image" content="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/logo-light1.png"> <meta name="twitter:image:src" content="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/logo-light1.png"><meta property="og:image" content="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/logo-light1.png" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">
+
+			html, * html body {
+				margin-top: 0 !important;
+			}
+
+			#wpadminbar {
+				background: rgba(0, 0, 0, .4) !important;
+				opacity: .7 !important;
+				-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)" !important;
+				filter: alpha(opacity=70) !important;
+			}
+
+		</style>		
+</head>
+
+
+<body id="body" class="page-template page-template-template-portfolio page-template-template-portfolio-php page page-id-139 parallax sticky-head compact-menu isotope-filtering page-template-template-modular-php sldr-noloop sldr-nofade sticky-default is-active-wc push-back-actions theme-lobo woocommerce-no-js">
+
+	<!-- Start main wrapper -->
+    <div id="main-wrapper">
+
+        <span class="menu-firer"><a href="#"><i class="icon-menu"></i><small>Menu</small></a></span>
+        
+        
+       	<!-- Start Main Nav -->
+        <header id="header">
+            <div id="nav-wrapper">
+
+            	<a href="https://lobo.demo-heythemers.com" title="Home" class="logo" style="width:77px;height:75px">
+
+				<!-- Get logo -->
+				
+	                <img class="logo-light regular-logo" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/logo-light.png" alt="Lobo">
+	                <img class="logo-dark regular-logo" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/logo-dark.png" alt="Lobo">
+	                <img class="logo-light retina-logo" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/logo-light_x2.png" alt="Lobo">
+	                <img class="logo-dark retina-logo" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/logo-dark_x2.png" alt="Lobo">
+
+            	</a>
+
+            	<!-- Complete menu -->
+                <nav class="main-d-nav iefix" style="background-image:url(https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/compact-menu-bg.jpg)">
+
+	            	<ul id="menu-default-menu" class="sf-menu"><li id="menu-item-321" class="current selected active has-subs menu-item"><a href="https://lobo.demo-heythemers.com/" class="sf-with-ul">Works</a><ul class="sub-menu">	<li id="menu-item-325" class="menu-item"><a href="https://lobo.demo-heythemers.com/">Masonry #2</a></li>
+	<li id="menu-item-405" class="menu-item"><a href="https://lobo.demo-heythemers.com/portfolio-2/">Masonry #3</a></li>
+	<li id="menu-item-404" class="menu-item"><a href="https://lobo.demo-heythemers.com/portfolio-3/">Masonry #4</a></li>
+	<li id="menu-item-647" class="current selected active menu-item"><a href="https://lobo.demo-heythemers.com/portfolio-alt/">Wide</a></li>
+</ul>
+</li>
+<li id="menu-item-320" class="has-subs menu-item"><a href="https://lobo.demo-heythemers.com/about-default/" class="sf-with-ul">About</a><ul class="sub-menu">	<li id="menu-item-330" class="menu-item"><a href="https://lobo.demo-heythemers.com/about-default/">Default</a></li>
+	<li id="menu-item-324" class="menu-item"><a href="https://lobo.demo-heythemers.com/about-alt/">Alternate</a></li>
+	<li id="menu-item-331" class="menu-item"><a href="https://lobo.demo-heythemers.com/about-photography/">Photography</a></li>
+	<li id="menu-item-323" class="menu-item"><a href="https://lobo.demo-heythemers.com/about-minimal/">Minimal</a></li>
+</ul>
+</li>
+<li id="menu-item-739" class="menu-item"><a href="https://lobo.demo-heythemers.com/shop/">Shop</a></li>
+<li id="menu-item-314" class="menu-item"><a href="https://lobo.demo-heythemers.com/blog/">News</a></li>
+<li id="menu-item-318" class="has-subs menu-item"><a href="https://lobo.demo-heythemers.com/contact-creative/" class="sf-with-ul">Contact</a><ul class="sub-menu">	<li id="menu-item-332" class="menu-item"><a href="https://lobo.demo-heythemers.com/contact-creative/">Creative</a></li>
+	<li id="menu-item-317" class="menu-item"><a href="https://lobo.demo-heythemers.com/contact-minimal/">Minimal</a></li>
+</ul>
+</li>
+<li class="selector"></li><li class="current-selector"></li></ul>
+					<!-- Compact Menu -->
+
+					
+					<div class="menu-footer">
+                        <div class="menu-logo"></div>
+                        <div class="menu-branding">
+                            <p>Lobo is a Multidisciplinary Design Agengy based in Brooklyn & focused on building amazing online experiences <span class="copy-highlight">for the modern business</span></p>
+                        </div>
+                    </div>
+
+                	
+                </nav>
+                
+            </div>
+
+        </header>
+        <!-- End Main Nav -->
+
+        <!-- Hero Start -->
+
+        <div class="hero-spacer" style="height: 130px;"></div>
+
+        <section class="hero-module">
+
+        	
+            <div class="overlay">
+                <span class="close-btn">
+                    <span class="hr"></span>
+                    <span class="vr"></span>
+                </span>
+            </div>
+
+            <div class="sticky-head-elmnts">
+                <div class="actions">
+
+                	
+               		
+                	
+                        <div class="action action-filters pf" data-action="filter"><a href="#">FILTERS</a></div>
+
+                	
+                	
+                    	<div class="action action-share" data-action="share"><a href="#">SHARE</a></div>
+
+                	
+                	                    	
+                    	<div class="action action-fullscreen" data-action="fullscreen"><a href="#">FULLSCREEN</a></div>
+
+                	
+                	
+						<div class="action action-scroll-top" data-action="scroll"><a href="#">GO TOP<i class="icon-up-open-big"></i></a></div>
+                    	
+                	                    
+                </div>
+
+                <h2 class="hero-sticky-title">Portfolio</h2>
+
+            </div>
+
+        	
+	        <ul class="cats">
+	        	<li><a href="#" data-filter="*">ALL</a></li>
+	        	
+<li><a href="#" data-filter=".documentary">Documentary</a></li>
+<li><a href="#" data-filter=".fine-arts">Fine Arts</a></li>
+<li><a href="#" data-filter=".photography">Photography</a></li> </ul>
+
+		
+            <div class="hero-info-shdw"></div>
+
+            <section id="hero-wrapper" class="face-control" data-height-type="auto" data-height-value="">
+	        <span class="target target-top"></span>
+	        <span class="target target-bottom"></span><section class="hero-slider royalSlider rsDefault hero-item disable-autoplay" data-speed="3000"><article class="rsContent"><img class="rsImg" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/loko-hero-02.jpg" alt="" data-init-width="1920" data-init-height="950" /><div class="hero-info rsABlock"><h2 class="hero-title">Lokomotive</h2><span class="subtitle">Identity</span></div></article><article class="rsContent"><img class="rsImg" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/home-03.jpg" alt="" /><div class="hero-info rsABlock"><h2 class="hero-title">Lobo</h2><span class="subtitle">Selfie</span></div></article><article class="rsContent"><img class="rsImg" src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/04/home-02.jpg" alt="" /><div class="hero-info rsABlock"><h2 class="hero-title">AKG</h2><span class="subtitle">Website</span></div></article></section></section>
+        </section>
+
+        <!-- Hero End -->
+
+        <!-- Content Start -->
+
+        <section id="content-wrapper">
+    
+    <section class="content-module portfolio clearfix type-full" data-cols="cols-1">
+
+		
+		
+			<div class="module image-module documentary photography ifpt" data-size="4-2">
+				<div class="prjct-hvr-title">
+					<h2 class="hvr-title">African Roots</h2>
+				</div>
+				<a class="view-item-btn pfl" title="African Roots" href="https://lobo.demo-heythemers.com/portfolio/cannes/?id=139">View<i class="icon-fontawesome-webfont-7"></i></a>
+				<div class="module-background" style="z-index:-1">
+      		<img class="lazyload" alt="African Roots"
+      			src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-motion-480x240.jpg"
+      			data-srcset="https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-motion-480x240.jpg 480w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-motion-960x480.jpg 960w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-motion-1440x720.jpg 1440w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-motion.jpg 1920w" 
+      			srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      		/>
+      	</div>
+			</div>
+
+		
+		
+		
+			<div class="module image-module fine-arts photography ifpt" data-size="4-2">
+				<div class="prjct-hvr-title">
+					<h2 class="hvr-title">Five</h2>
+				</div>
+				<a class="view-item-btn pfl" title="Five" href="https://lobo.demo-heythemers.com/portfolio/five-wide/?id=139">View<i class="icon-fontawesome-webfont-7"></i></a>
+				<div class="module-background" style="z-index:-1">
+      		<img class="lazyload" alt="Five"
+      			src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/chair-480x240.jpg"
+      			data-srcset="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/chair-480x240.jpg 480w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/chair-960x480.jpg 960w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/chair-1440x720.jpg 1440w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/chair.jpg 1920w" 
+      			srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      		/>
+      	</div>
+			</div>
+
+		
+		
+		
+			<div class="module image-module photography ifpt" data-size="4-2">
+				<div class="prjct-hvr-title">
+					<h2 class="hvr-title">Liz Laforet</h2>
+				</div>
+				<a class="view-item-btn pfl" title="Liz Laforet" href="https://lobo.demo-heythemers.com/portfolio/liz-laforet/?id=139">View<i class="icon-fontawesome-webfont-7"></i></a>
+				<div class="module-background" style="z-index:-1">
+      		<img class="lazyload" alt="Liz Laforet"
+      			src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-fashion-480x238.jpg"
+      			data-srcset="https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-fashion-480x238.jpg 480w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-fashion-960x475.jpg 960w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-fashion-1440x713.jpg 1440w, https://lobo.demo-heythemers.com/wp-content/uploads/2014/06/hero-fashion.jpg 1920w" 
+      			srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      		/>
+      	</div>
+			</div>
+
+		
+		
+	</section>
+
+			<div id="infinite">
+			<i class="fa fa-refresh fa-spin fa-2x"></i>
+			<a id="infinite-link" href="https://lobo.demo-heythemers.com/portfolio-alt/page/2/"></a>
+			<p>No More Projects</p>
+		</div>
+	
+    
+            <div class="clearfix"></div>
+
+        </section>
+
+        <!-- Content End -->
+
+        <!-- Footer -->
+        
+       <footer class="footer">
+       		<div class="social-area">
+                <ul><li><a target="_self" href="#" title="Join us on Twitter" class="shr-btn-twitter"><span>Twitter</span><i class="icon-twitter"></i></a></li><li><a target="_self" href="#" title="Join us on Facebook" class="shr-btn-facebook"><span>Facebook</span><i class="icon-facebook"></i></a></li><li><a target="_self" href="#" title="Join us on Behance" class="shr-btn-behance"><span>Behance</span><i class="icon-behance"></i></a></li><li><a target="_self" href="#" title="Join us on Pinterest" class="shr-btn-pinterest"><span>Pinterest</span><i class="icon-pinterest"></i></a></li><li><a target="_self" href="#" title="Join us on Gplus" class="shr-btn-gplus"><span>Gplus</span><i class="icon-gplus"></i></a></li></ul>            </div>
+            <div class="credits">
+                <p>© We are Lobo. All rights reserved. 2014</p><p>Made by wolves in Brooklyn, NYC</p><p><a href="http://bit.ly/1pJJj7A">Buy theme ></a></p>            </div>
+        </footer>
+
+    </div>
+
+	<!-- Preloader -->
+
+	<div id="preloader">
+	    <div class="preloader-image" style="background-image:url(https://lobo.demo-heythemers.com/wp-content/themes/lobo/img/preloader-def.gif);"></div>
+	    <div id="spinner"></div>
+	</div>
+
+    <!-- Sharing Start -->
+
+    
+    <section class="share-wdgt">
+        <div class="header">
+
+                        <figure><img src="https://lobo.demo-heythemers.com/wp-content/uploads/2014/05/share-wdgt-banner1.jpg" alt="Lobo" width="570" height="292"></figure>
+            
+            <span>Share</span>
+
+            <ul class="share-btns face-control">
+
+                
+                <li><a class="shr-btn btn-twitter" href="https://twitter.com/home?status=Portfolio+https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F" title="Share on Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+                <li><a class="shr-btn btn-facebook" href="https://www.facebook.com/share.php?u=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F&amp;title=Portfolio" title="Share on Facebook" target="_blank"><i class="icon-facebook"></i></a></li>
+                <li><a class="shr-btn btn-pinterest" href="http://pinterest.com/pin/create/bookmarklet/?media=&amp;url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F&amp;is_video=false&amp;description=Portfolio" title="Share on Pinterest" target="_blank"><i class="icon-pinterest"></i></a></li>
+                <li><a class="shr-btn btn-tumblr" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F&amp;name=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F" title="Share on Tumblr" target="_blank"><i class="icon-tumblr-1"></i></a></li>
+                <li><a class="shr-btn btn-reddit" href="http://www.reddit.com/submit?url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F" title="Share on Reddit" target="_blank"><i class="icon-reddit"></i></a></li>
+                <li><a class="shr-btn btn-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Flobo.demo-heythemers.com%2Fportfolio-alt%2F&amp;title=Portfolio" title="Share on Linkedin" target="_blank"><i class="icon-linkedin"></i></a></li>
+            </ul>
+        </div>
+    </section>
+
+	
+    <!-- Sharing End -->
+	
+	<!-- IE7 Message Start -->
+	<div id="oldie">
+		<p>This is a unique website which will require a more modern browser to work!<br /><br />
+		<a href="https://www.google.com/chrome/" target="_blank">Please upgrade today!</a>
+		</p>
+	</div>
+	<!-- IE7 Message End -->
+
+	<!-- No Scripts Message -->
+	<noscript id="scriptie">
+		<div>
+			<p>This is a modern website which will require Javascript to work. <br />Please turn it on!			</p>
+		</div>
+	</noscript>
+
+    <!-- THE END -->
+
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_6fe6599d22f8b3d722693f91c4f342bb","fragment_name":"wc_fragments_6fe6599d22f8b3d722693f91c4f342bb","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/js/autoptimize_single_0ca8cd384931d74c4b6a9f592e987f69.js' id='fancybox-js'></script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/themes/lobo/js/modernizr-2.6.2.min.js' id='modernizr-js'></script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/js/autoptimize_single_df43d8aa70e44af512b9140741f0f487.js' id='theme_plugins-js'></script>
+<script type='text/javascript' id='theme_scripts-js-extra'>
+/* <![CDATA[ */
+var themeObjects = {"base":"https:\/\/lobo.demo-heythemers.com\/wp-content\/themes\/lobo","galleriaSkin":"https:\/\/lobo.demo-heythemers.com\/wp-content\/themes\/lobo\/js\/galleria-themes\/skin-01\/galleria-skin.js","textReviews":"Reviews","textSort":"Sort by"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-content/cache/autoptimize/js/autoptimize_single_753a0d23f1994a2144c6f7b734448b41.js' id='theme_scripts-js'></script>
+<script type='text/javascript' src='https://lobo.demo-heythemers.com/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+	<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            //$( document ).ajaxStart(function() {
+            //});
+
+			
+            for (var i = 0; i < document.forms.length; ++i) {
+                var form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="wtSZIWQ" value="TKeVSk" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="fyhuwYsFmX" value="qktsEwIzN3K" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="UgAMzv" value="s.9VAcOS7Lkp3" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="TzxuQeK_" value="Qcfko7" />'); }
+            }
+
+			
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="wtSZIWQ" value="TKeVSk" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="fyhuwYsFmX" value="qktsEwIzN3K" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="UgAMzv" value="s.9VAcOS7Lkp3" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="TzxuQeK_" value="Qcfko7" />'); }
+                return true;
+            });
+
+			
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    //console.log(Object.getOwnPropertyNames(data).sort());
+                    //console.log(data.type);
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("wtSZIWQ", "TKeVSk");
+data.data.append("fyhuwYsFmX", "qktsEwIzN3K");
+data.data.append("UgAMzv", "s.9VAcOS7Lkp3");
+data.data.append("TzxuQeK_", "Qcfko7");
+                    }
+                    else {
+                        data.data =  data.data + '&wtSZIWQ=TKeVSk&fyhuwYsFmX=qktsEwIzN3K&UgAMzv=s.9VAcOS7Lkp3&TzxuQeK_=Qcfko7';
+                    }
+                }
+            });
+
+        });
+	</script>
+	
+</body>
+</html>
